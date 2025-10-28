@@ -1,0 +1,13 @@
+{
+	"ID": "016cabff417b3fedeb144682290f2823",
+	"TypeName": "Game.UIAnim_ImageAlpha",
+	"EngineBuild": 6705,
+	"Data": {
+	"Start": 1.0,
+	"End": 0.5,
+	"Varying": "7249402a43bd5a71c225a7bfcb0d4d1a",
+	"Mute": false,
+	"Delay": 0.0,
+	"CurrAsStart": true
+}
+}

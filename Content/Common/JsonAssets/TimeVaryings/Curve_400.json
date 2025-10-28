@@ -1,0 +1,37 @@
+{
+	"ID": "7249402a43bd5a71c225a7bfcb0d4d1a",
+	"TypeName": "Game.CurveVarying",
+	"EngineBuild": 6705,
+	"Data": {
+	"FloatCurve": {
+		"Keyframes": [
+			{
+				"Time": 0.0,
+				"Value": 0.0,
+				"TangentIn": 0.0,
+				"TangentOut": 0.0
+			},
+			{
+				"Time": 0.2790022,
+				"Value": 0.9047169,
+				"TangentIn": -0.46944016,
+				"TangentOut": 0.23116116
+			},
+			{
+				"Time": 0.5533787,
+				"Value": 0.15754707,
+				"TangentIn": 0.0,
+				"TangentOut": 0.0
+			},
+			{
+				"Time": 1.0,
+				"Value": 1.0,
+				"TangentIn": 0.0,
+				"TangentOut": 0.0
+			}
+		]
+	},
+	"Duration": 0.4,
+	"LoopType": 0
+}
+}

@@ -1,0 +1,11 @@
+{
+	"ID": "6e07b05c411979135ed3799fde79f878",
+	"TypeName": "Game.EaseVarying",
+	"EngineBuild": 6705,
+	"Data": {
+	"Ease": 3,
+	"Symmetry": false,
+	"Duration": 0.4,
+	"LoopType": 0
+}
+}

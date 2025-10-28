@@ -1,0 +1,18 @@
+{
+	"ID": "db5a133e46ecb8d66b63a49c02059d29",
+	"TypeName": "Game.UIAnim_TransformScale",
+	"EngineBuild": 6705,
+	"Data": {
+	"Start": {
+		"X": 0.0,
+		"Y": 0.0
+	},
+	"End": {
+		"X": 1.5,
+		"Y": 1.2
+	},
+	"Varying": "7249402a43bd5a71c225a7bfcb0d4d1a",
+	"Delay": 0.0,
+	"CurrAsStart": true
+}
+}

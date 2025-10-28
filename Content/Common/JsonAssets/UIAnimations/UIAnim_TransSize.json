@@ -1,0 +1,19 @@
+{
+	"ID": "4d43ea82484e6a7a103a93bfde22e967",
+	"TypeName": "Game.UIAnim_TransformSize",
+	"EngineBuild": 6705,
+	"Data": {
+	"Start": {
+		"X": 0.0,
+		"Y": 0.0
+	},
+	"End": {
+		"X": 120.0,
+		"Y": 160.0
+	},
+	"Varying": "b3c978cf40239e99d726afbacae00871",
+	"Mute": false,
+	"Delay": 0.0,
+	"CurrAsStart": true
+}
+}

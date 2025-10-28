@@ -1,0 +1,23 @@
+{
+	"ID": "b7dc86894ae2036c231ca6826e522743",
+	"TypeName": "Game.UIAnim_ImageColor",
+	"EngineBuild": 6705,
+	"Data": {
+	"Start": {
+		"R": 1.0,
+		"G": 1.0,
+		"B": 1.0,
+		"A": 1.0
+	},
+	"End": {
+		"R": 1.0,
+		"G": 0.0,
+		"B": 0.0,
+		"A": 1.0
+	},
+	"Varying": "6e07b05c411979135ed3799fde79f878",
+	"Mute": false,
+	"Delay": 0.0,
+	"CurrAsStart": true
+}
+}
