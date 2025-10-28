@@ -131,6 +131,11 @@
 			"ParentID": "74a68a984824b4510d12589f199ad68f",
 			"Name": "Floor",
 			"Transform": {
+				"Translation": {
+					"X": 0.0,
+					"Y": -25.0,
+					"Z": 0.0
+				},
 				"Scale": {
 					"X": 10.0,
 					"Y": 0.5,
@@ -940,8 +945,8 @@
 			"Name": "Panel",
 			"Transform": {
 				"Translation": {
-					"X": 249.33914184570313,
-					"Y": 115.73507690429688,
+					"X": 1817.376708984375,
+					"Y": 580.1299438476563,
 					"Z": -0.00002814373692672234
 				},
 				"Orientation": {
@@ -991,9 +996,9 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 249.33914,
+		"Left": 1817.3767,
 		"Right": 466.97998,
-		"Top": 115.73508,
+		"Top": 580.12994,
 		"Bottom": 457.39136
 	},
 	"Scale": {
@@ -1093,8 +1098,8 @@
 			"Name": "MyImage",
 			"Transform": {
 				"Translation": {
-					"X": 43.53912353515625,
-					"Y": 194.6114959716797,
+					"X": 50.0,
+					"Y": 200.0,
 					"Z": -0.00007352841930696741
 				}
 			},
@@ -1121,10 +1126,10 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 43.539124,
-		"Right": 212.53119,
-		"Top": 194.6115,
-		"Bottom": 205.01065
+		"Left": 50.0,
+		"Right": 200.0,
+		"Top": 200.0,
+		"Bottom": 200.0
 	},
 	"Scale": {
 		"X": 1.0,
@@ -1150,6 +1155,62 @@
 	"Visible": true,
 	"AutoFocus": false
 }
+		},
+		{
+			"ID": "6fc3e27c49433df061eaf580fbd016ef",
+			"TypeName": "FlaxEngine.AnimatedModel",
+			"ParentID": "74a68a984824b4510d12589f199ad68f",
+			"Name": "BlueIsland_Man",
+			"Transform": {
+				"Orientation": {
+					"X": -0.7071068286895752,
+					"Y": 0.0,
+					"Z": 0.0,
+					"W": 0.7071068286895752
+				}
+			},
+			"Buffer": {
+				"Entries": []
+			}
+		},
+		{
+			"ID": "2f1d4dba42e03611b797709f66326075",
+			"TypeName": "FlaxEngine.StaticModel",
+			"ParentID": "74a68a984824b4510d12589f199ad68f",
+			"Name": "BlueIsland_Man 0",
+			"Transform": {
+				"Translation": {
+					"X": 56.87896728515625,
+					"Y": 20.35177230834961,
+					"Z": 56.957733154296875
+				}
+			},
+			"Buffer": {
+				"Entries": []
+			}
+		},
+		{
+			"ID": "5478d66541885640721351ad1aa1a787",
+			"TypeName": "FlaxEngine.AnimatedModel",
+			"ParentID": "74a68a984824b4510d12589f199ad68f",
+			"Name": "BlueIsland_Man 1",
+			"SkinnedModel": "cf35bd3b40f03a2fd13449a31e9649c0",
+			"Buffer": {
+				"Entries": [
+					{
+						"Material": "00000000000000000000000000000000",
+						"ShadowsMode": 3,
+						"Visible": true,
+						"ReceiveDecals": true
+					},
+					{
+						"Material": "00000000000000000000000000000000",
+						"ShadowsMode": 3,
+						"Visible": true,
+						"ReceiveDecals": true
+					}
+				]
+			}
 		}
 	]
 }
