@@ -58,6 +58,8 @@ public class ImageCtrl : Script
 
     void TrySetImageFill(float fill)
     {
+        if (_fillParam == null) return;
+
         _fillParam.Value = fill;
     }
 }
